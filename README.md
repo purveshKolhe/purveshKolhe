@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @purveshKolhe
 - 👀 I’m interested in Coding, what else here ;)
 - 🌱 I’m currently learning IDK    xD
-- 💞️ I’m looking to collaborate on umm...... umm.....   Can you tell me?
+- 💞️ I’m looking to collaborate on umm...... umm.....   Can you tell me? :wink:
 - 📫 How to reach me i don't know :(  :grin:
 An advice :: Never miss ;     ...xD
 
