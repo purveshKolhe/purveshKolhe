@@ -1,6 +1,7 @@
 # 💫 About Me:
-🔭 I’m currently working on Intense, which is an agentic and generative AI powered graphic design platform, which is built to save your time upon whether be it posters, infographics, greetings, invitations, presentations, videos — all in one package.<br>🌱 I’m currently learning newer frameworks and niche products. <br>⚡ Fun fact: I code since I was 13
-
+Hi, I am Purvesh. I have been passionate about Computers since quite an early age. Acquiring technical knowledge is one thing that would never tire me. I started to code at the age of 13. Starting early gave me the freedom to explore and fail and also learn from the mistakes that I committed. 
+Earlier I kept on learning languages without using them, leading to no real project experience. But as I moved on, I took interest in building things. And the first project sparked in me a new interest for building cool sh!t. 
+Due to this, I felt an immense interest towards cloud. I have lately been working on cloud, deploying AI models, breaking things and learning from them. Let's see where the learning journey takes us next ;)
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:purveshkolhe27@gmail.com) 
